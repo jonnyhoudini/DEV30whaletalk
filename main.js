@@ -18,4 +18,5 @@ for (let i = 0; i < input.length; i++) {
     }
 }
 
-// I have just finished step 11 of the Whale Talk project
+const resultString = resultArray.join('').toUpperCase();
+
